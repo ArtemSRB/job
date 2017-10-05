@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e5f9a6c-b66a-409e-b11f-11b330d6f232" name="Default" comment="КОМИТ">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +39,7 @@
       </list>
     </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/simple_flagicon_switcher" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="ewew" />
@@ -115,7 +114,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -149,7 +148,7 @@
       <workItem from="1507104657800" duration="6329000" />
       <workItem from="1507112040073" duration="4155000" />
       <workItem from="1507124502507" duration="3056000" />
-      <workItem from="1507191544158" duration="7981000" />
+      <workItem from="1507191544158" duration="8358000" />
     </task>
     <task id="LOCAL-00001" summary="TEST">
       <created>1507109794812</created>
@@ -211,7 +210,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22131000" />
+    <option name="totallyTimeSpent" value="22508000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -280,6 +279,8 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="/usr/bin/git" />
+      <path value="$PROJECT_DIR$/my_git_project" />
+      <path value="$PROJECT_DIR$/simple_flagicon_switcher" />
     </ignored-roots>
     <MESSAGE value="simple" />
     <MESSAGE value="TEST" />
